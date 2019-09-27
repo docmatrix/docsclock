@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Docs Clock</string>
+    <string name="app_timezone">Europe/London</string>
+</resources>
